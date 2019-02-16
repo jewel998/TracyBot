@@ -1,5 +1,6 @@
 # Tracy-ChatBot
 >Newest Update, you can now talk to the bot and it can talk back to you, it also avails you with features like Searching something up in Google and reading it for you. It can also show you all the top results in a Google Search. Coming soon, features with LSTM, and many more. Keep Updated.
+
 This is a chat bot with some predefined operations coded in Python 3.
 This Bot is platform independent, i.e. it can run on Windows, Linux, MacOs.
 ![LOGO OF THE PROJECT](https://github.com/jewel998/TracyBot/blob/slave/Chatbot.JPG)
